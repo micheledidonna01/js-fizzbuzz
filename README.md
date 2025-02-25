@@ -7,7 +7,7 @@ Per i numeri che sono sia multipli di 3 che di 5 stampi FizzBuzz.
 
 ## Soluzione
 
-- ripetere le istruzioni indicate, fino a quando l'indice che parte da 0, viene incrementato a 100 di un numero alla volta 
+- ripetere le istruzioni indicate, fino a quando l'indice che parte da 1, viene incrementato a 100 di un numero alla volta 
     - se il resto dell'indice è divisibile sia per 5 che per 3
         - stamperemo fizzbuzz
     - altrimenti se il resto dell'indice è un numero divisibile per 3

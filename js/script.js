@@ -1,4 +1,4 @@
-//ripetere le istruzioni indicate, fino a quando l'indice che parte da 0,
+//ripetere le istruzioni indicate, fino a quando l'indice che parte da 1,
 //viene incrementato a 100 di un numero alla volta utilizzando un ciclo for
 for (let i = 1; i <= 100; i++) {
 
